@@ -114,4 +114,48 @@ p{
         display: flex;
     }
 }
-
+/** section 2 start**/
+.section2{
+    padding-bottom: 0.5rem;
+    color: #fff;
+    background-color: #9693e6;
+}
+.section2-h, .section2-h2{
+    font-size: 1.5rem;
+    padding: 1rem 0;
+    font-weight: bold;
+}
+.section2-p{
+    line-height: 1.5rem;
+}
+.section2-p2, .section2-h2{
+    color: #4b4a65;
+}
+.section2-p2{
+    font-style: italic;
+}
+.card{
+    margin: 1rem;
+    border: 1px;
+    border-radius: 3rem;
+    background-color: #fff;
+}
+@media(min-width:50rem){
+    .section-2{
+        display: flex;
+        width: 100%;
+        max-width: 70rem;
+        margin: 0 auto;
+    }
+    .section2-img{
+        width: 15.625rem;
+        padding: 0 4rem;
+    }
+    .section2-p2{
+        width: 23.125rem;
+    }
+    .section2-t{
+        padding: 10rem 0;
+    } 
+}
+/** section 2 end **/
