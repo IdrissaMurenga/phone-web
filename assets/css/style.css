@@ -160,3 +160,40 @@ p{
 }
 /** section 2 end **/
 /** section 3 start **/
+.section3>*{
+    margin: 1rem;
+    border: 1px;
+    gap: 1rem;
+    border-radius: 1rem;
+}
+.two{
+   background-color: #ffbfbf;
+   padding: 2rem;
+}
+.three{
+    background-color: #ffddab;
+    padding: 2rem;
+}
+.foor{
+    background-color: #b3e9cb;
+    padding: 2rem;
+}
+.one-h{
+    font-size: 1.5rem;
+    padding: 1rem 0;
+    font-weight: bold;
+    color: #9693e6;
+}
+.two-p, .three-p, .foor-p{
+    padding: 1rem 0;
+    font-size: large;
+}
+h5{
+    font-weight: bold;
+}
+.imgs{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 50%;
+}
