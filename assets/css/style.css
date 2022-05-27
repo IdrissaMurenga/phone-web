@@ -11,6 +11,7 @@ body{
     color: #0084ff;
 }
 .p1-header{
+    line-height: 1.5rem;
     color: #3279bb;
 }
 .textes{
@@ -35,4 +36,19 @@ body{
 .header-btn:hover{
     background-color: #0084ff;
 }
+
+.inner-container{
+    margin: 1rem;
+    border: 1px solid #b3e9cb;
+    border-radius: 1rem;
+    background-color: #b3e9cb;
+    color: #54c788;    
+}
+.fa-file-code{
+    font-size: 4rem;
+}
+.p-header{
+    line-height: 1.5rem;
+}
+
 /** header start**/
