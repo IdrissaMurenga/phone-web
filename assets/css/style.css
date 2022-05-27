@@ -206,3 +206,35 @@ h5{
         width: 30%;
     }
 }
+
+/**section 4 start**/
+.prgh-h1{
+    font-size: 3rem;
+    padding-left: 1rem;
+    font-weight: bold;
+    color: #9693e6;
+}
+.section4-p{
+    padding: 0 1rem;
+    color: #111111;
+    line-height: 2rem;
+}
+.section4-mg{
+    width: 50%;
+    border-radius: 50%;
+}
+.btn-h2{
+  padding: 0 1rem;
+  color: #9693e6;  
+}
+.btn-btn{
+    margin: 1rem;
+    padding: 1rem;
+    border: 1px;
+    border-radius: 5rem;
+    background-color: #9693e6;
+    color: #fff;
+}
+.btn-btn:hover{
+    background-color: #111111;
+}
