@@ -197,3 +197,12 @@ h5{
     margin: 0 auto;
     border-radius: 50%;
 }
+@media(min-width:50rem){
+    .card2{
+        display: flex;
+        padding: 0;
+    }
+    .imgs{
+        width: 30%;
+    }
+}
