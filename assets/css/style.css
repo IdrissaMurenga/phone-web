@@ -50,5 +50,15 @@ body{
 .p-header{
     line-height: 1.5rem;
 }
-
+@media(min-width:50rem){
+    header, .container{
+        display: flex;
+    }
+    header>*{
+        padding-top: 3rem;
+    }
+    .img-header{
+        width: 40%
+    }
+}
 /** header start**/
