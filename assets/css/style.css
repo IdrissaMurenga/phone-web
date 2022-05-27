@@ -140,3 +140,19 @@ p{
     border-radius: 3rem;
     background-color: #fff;
 }
+@media(min-width:50rem){
+    .section2{
+        display: flex;
+    }
+    .section2-img{
+        width: 15.625rem;
+        padding: 0 4rem;
+    }
+    .section2-p2{
+        width: 23.125rem;
+    }
+    .section2-t{
+        padding: 10rem 0;
+    } 
+}
+/** section 2 end **/
