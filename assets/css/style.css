@@ -109,4 +109,9 @@ h2{
 p{
     line-height: 1.5rem;
 }
+@media(min-width:50rem){
+    .section1{
+        display: flex;
+    }
+}
 
