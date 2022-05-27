@@ -238,3 +238,11 @@ h5{
 .btn-btn:hover{
     background-color: #111111;
 }
+@media(min-width:50rem){
+    .section4{
+        display: flex;
+    }
+    .btn-h2{
+        width: 20rem;
+    }
+}
