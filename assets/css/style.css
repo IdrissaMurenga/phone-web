@@ -247,3 +247,34 @@ h5{
     }
 }
 /**section 4 end**/
+/**start of section 5**/
+.section5{
+    background-color: #9693e6;
+    text-align: center;
+    padding: 1rem;
+}
+.s5-p1{
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    color: #c3c1f1;
+}
+.s5-p{
+    padding: 1rem 0;
+    color: #fff3f3;
+}
+.s5-p2{
+    font-size: 1.5rem
+}
+.s5-h1{
+    font-size: 4rem;
+    color: #ffc166;
+    font-weight: bold;
+}
+.s5-btn{
+    padding: 1rem 4rem;
+    border: 1px;
+    border-radius: 5rem;
+    background-color: #fff3f3;
+    color: #9693e6;
+}
