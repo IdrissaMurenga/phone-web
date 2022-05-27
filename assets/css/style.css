@@ -278,3 +278,10 @@ h5{
     background-color: #fff3f3;
     color: #9693e6;
 }
+/** start of footer**/
+.footer{
+    text-align: center;
+    color: #fff;
+    background-color: #111111;
+    padding: 2rem;
+}
