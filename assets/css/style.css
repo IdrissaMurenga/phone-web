@@ -116,7 +116,7 @@ p{
 }
 /** section 2 start**/
 .section2{
-    padding-bottom: 1rem;
+    padding-bottom: 0.5rem;
     color: #fff;
     background-color: #9693e6;
 }
@@ -141,8 +141,11 @@ p{
     background-color: #fff;
 }
 @media(min-width:50rem){
-    .section2{
+    .section-2{
         display: flex;
+        width: 100%;
+        max-width: 70rem;
+        margin: 0 auto;
     }
     .section2-img{
         width: 15.625rem;
